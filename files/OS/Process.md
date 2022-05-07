@@ -5,8 +5,8 @@
 > 프로세스는 메인 메모리에 할당되어 실행중인 프로그램을 의미한다. 프로그램은 Disk에 저장되어 현재 아무 일도 하지않는 수동적인 상태이다. 프로세스는 실행하면서 stack, heap, data 등이 끊임없이 변한다.
 
 ### 1.1 프로세스 상태(Process State)
-<p align = "center">
-    <img src = "../Pictures/OS_1.png">
+<p align="center">
+    <img src = "../../Pictures/OS_1.png">
 </p>
 > Diagram of Process State, 프로세스 상태 다이어그램은 new 상태에서부터 terminated 상태까지 프로세스가 거치는 상태가 어떤 작업에 의해 변하는지를 나타낸 그림
 
@@ -19,8 +19,8 @@
 </ul>
 
 ### 1.2 PCB(Process Control Block)
-<p align = "center">
-    <img src = "../Pictures/OS_2.png">
+<p align="center">
+    <img src = "../../Pictures\OS_2.png">
 </p>
 
 > PCB는 프로세스에 대한 모든 정보를 저장하는 자료구조로, Task Control Block(TCB)으로 불리기도 한다. 
