@@ -6,7 +6,7 @@
 
 ### 1.1 프로세스 상태(Process State)
 <p align = "center">
-    <img src = "../Pictures/OS_1.png">
+    <img src = "../Pictures\OS_1.png">
 </p>
 > Diagram of Process State, 프로세스 상태 다이어그램은 new 상태에서부터 terminated 상태까지 프로세스가 거치는 상태가 어떤 작업에 의해 변하는지를 나타낸 그림
 
@@ -20,7 +20,7 @@
 
 ### 1.2 PCB(Process Control Block)
 <p align = "center">
-    <img src = "../Pictures/OS_2.png">
+    <img src = "../Pictures\OS_2.png">
 </p>
 
 > PCB는 프로세스에 대한 모든 정보를 저장하는 자료구조로, Task Control Block(TCB)으로 불리기도 한다. 
