@@ -4,12 +4,12 @@
 ### 0. 마크다운 사용법
 - <a href="Markdown.md">마크 다운 사용법 </a>
 ### 1. 인터넷
-- <a href="/files/Internet/Internet.md">인터넷의 작동 원리</a>
-- <a href="/files/Internet/Http.md">HTTP란?</a>
-- <a href="/files/Internet/Browser.md">브라우저와 그 작동 원리</a>
-- <a href="/files/Internet/Http.md">DNS와 그 작동 원리</a>
+- <a href="files\Internet\Internet.md">인터넷의 작동 원리</a>
+- <a href="/files\Internet\Http.md">HTTP란?</a>
+- <a href="/files\Internet\Browser.md">브라우저와 그 작동 원리</a>
+- <a href="/files\Internet\Http.md">DNS와 그 작동 원리</a>
 ### 2. OS에 대한 전반적인 지식
-- <a href="/files/OS/process.md">프로세스 관리</a>
+- <a href="/files\OS\process.md">프로세스 관리</a>
 
 
 <p align="center">
