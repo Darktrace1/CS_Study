@@ -1,4 +1,4 @@
-# Backend_study
+# CS_Study
 
 ## Backend_study 로드맵에 Computer Science 내용을 정리합니다.
 ### 0. 마크다운 사용법
