@@ -8,6 +8,7 @@
 <p align="center">
     <img src = "../../Pictures/OS_1.png">
 </p>
+
 > Diagram of Process State, 프로세스 상태 다이어그램은 new 상태에서부터 terminated 상태까지 프로세스가 거치는 상태가 어떤 작업에 의해 변하는지를 나타낸 그림
 
 <ul> 
